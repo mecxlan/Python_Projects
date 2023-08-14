@@ -2,6 +2,7 @@
 # 2. Resize an Image
 # 3. Blur Image 
 # 4. Sharpen Image
+# 5. Batch Process Image
 
 # !pip install opencv-python
 import cv2 
