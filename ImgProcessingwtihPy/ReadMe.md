@@ -1,3 +1,5 @@
+Author: [Muhammad Arslan](https://www.linkedin.com/in/mecxlan/)
+
 # Image Processing with Python(OpenCV)
 
 1. Read Image
