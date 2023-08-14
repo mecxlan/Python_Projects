@@ -1,3 +1,5 @@
+Author: [Muhammad Arslan](https://www.linkedin.com/in/mecxlan/)
+
 # Merge Sort & Filter
 * Libraries Used
   * `pandas` - read DataFrames 
@@ -16,3 +18,5 @@ Sort the merged dataframes, first by rainfall, then by temperature.
 
 Call the function to plot the merged data: rainfall vs temperature.
 * `kind = reg` seaborn joint regression plot
+
+[pandas.DataFrame.merge](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.merge.html)
