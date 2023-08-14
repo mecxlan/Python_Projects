@@ -1,3 +1,5 @@
+# Author: [Muhammad Arslan](https://www.linkedin.com/in/mecxlan/)
+
 # 1. Read Image
 # 2. Resize an Image
 # 3. Blur Image 
