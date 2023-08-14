@@ -60,8 +60,10 @@ for filename in listOfFiles:
 
 filename, new_image = resize('bird.jpg', 1280, 960)
 #cv2.imshow('resized image', new_image)
-# cv2.waitKey(0)
+#cv2.waitKey(0)
 
 # Average blurring technique
+
 # blur(new_image)
 # image = sharpen(new_image)
+# https://docs.opencv.org/
