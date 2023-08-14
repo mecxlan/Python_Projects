@@ -33,3 +33,6 @@ Extract the sum_total Green Energy Production using string manipulation
 2. Replace the word "interpreted" with "dynamic" and store the result in a new variable `new_text`.
 3. Capitalize the first letter of each word in `text` and store the result in a new variable `capitalized_text`.
 4. Split the text into sentences and store the result in a list `sentences`. Each sentence should end with a period (.).
+
+`enumerate()` = two variable inside `for` loop 
+<!--> i for numbering and var for storing value 
