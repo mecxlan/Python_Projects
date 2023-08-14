@@ -1,6 +1,6 @@
 # Python for Beginners Variables Strings
 
-The Notebook.ipynb
+## The Notebook.ipynb
 
 
 Python Variables
@@ -14,8 +14,22 @@ Python Variables
     * indices
 
 * File Handling (txt)
-  * for loop
+  * `for` loop
   * `append()` method
 
 * Visualization (`Matplotlib`)_`pyplot`_
   * Cost Distribution Per Item
+
+
+## Practice Task: Green Energy Production
+Extract the sum_total Green Energy Production using string manipulation
+* `for` loop = iteration
+* `strip()` = eliminate the lead & trail white space
+*  `append()` = add the upcomming item to list
+
+
+## Challenge - String Variables.ipynb
+1. Find the number of occurrences of the word "Python" in the text.
+2. Replace the word "interpreted" with "dynamic" and store the result in a new variable `new_text`.
+3. Capitalize the first letter of each word in `text` and store the result in a new variable `capitalized_text`.
+4. Split the text into sentences and store the result in a list `sentences`. Each sentence should end with a period (.).
