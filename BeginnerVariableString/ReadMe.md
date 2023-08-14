@@ -1,3 +1,5 @@
+Author: [Muhammad Arslan](https://www.linkedin.com/in/mecxlan/)
+
 # Python for Beginners Variables Strings
 
 ## The Notebook.ipynb
